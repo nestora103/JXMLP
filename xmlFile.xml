@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testFrd>
+<friendGroup type="друзья">
+    <friendNote attribute="1">
+        <number>1</number>
+        <name>Ivan</name>
+        <size>100</size>
+    </friendNote>
+    <friendNote>
+        <number>3</number>
+        <name>Piter</name>
+        <size>90</size>
+    </friendNote>
+    <friendNote>
+        <number>5</number>
+        <name>Dmitry</name>
+        <size>97</size>
+    </friendNote>
+    <friendNote>
+        <number>2</number>
+        <name>Max</name>
+        <size>70</size>
+    </friendNote>
+</friendGroup>
+
+<friendGroup type="знакомые">
+<friendNote attribute="1">
+    <number>1</number>
+    <name>Ivan1</name>
+    <size>100</size>
+</friendNote>
+<friendNote>
+    <number>3</number>
+    <name>Piter1</name>
+    <size>90</size>
+</friendNote>
+<friendNote>
+    <number>5</number>
+    <name>Dmitry1</name>
+    <size>97</size>
+</friendNote>
+<friendNote>
+    <number>2</number>
+    <name>Max1</name>
+    <size>70</size>
+</friendNote>
+</friendGroup>
+</testFrd>
