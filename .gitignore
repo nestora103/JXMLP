@@ -61,3 +61,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+.idea/*.xml
+JXMLP.iml
+.idea/dictionaries/DmitriX.xml
